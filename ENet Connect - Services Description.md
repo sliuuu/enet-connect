@@ -63,7 +63,7 @@ Service billed by Bandwidth 2Mbps to 500Mbps
 
 <u>ENet Connect Integration with AWS</u>
 
-![image-20190330113234536](/Users/samliu/Library/Application Support/typora-user-images/image-20190330113234536.png)
+![enetconnect_integration_aws](https://s3-ap-northeast-1.amazonaws.com/samliubucket1/enetconnect/enetconnect_integration_aws.png)
 
 For the gateway VPC, organizations can purchase Elastic Cloud Routers throught CBCcom as Bring Your Own Licenses (BYOL). Depending on the region in which customers deploy Elastic Cloud Routers, various instances can be supported (e.g., M3 and M4, and C3 and C4).
 
@@ -77,7 +77,7 @@ Service billed by Bandwidth2Mbps to 500Mbps
 
 ENet Connect - Hybrid Connect Use Case
 
-![Screenshot 2019-03-20 at 12.35.02 AM](/Users/samliu/Desktop/Screenshot 2019-03-20 at 12.35.02 AM.png)
+![Screenshot 2019-03-20 at 12.35.02 AM]()
 
 Hybrid Connect is a network base SD-WAN that securely extends and enable enterprises to deploy and build high performance WAN across mainland China, as well as between mainland China and rest of the world. Traffic is encrypted and leverages Internet Access primary as Access Circuit to reduce cost of installing local loop and/or access. 
 
