@@ -36,7 +36,7 @@ Universal Customer Edges devices are merchant silicon based networking appliance
 
 | Branch Size            | eXtra-Small 1 | eXtra-Small 2 | Small Branch   | Medium Branch                 |
 | ---------------------- | ------------- | ------------- | -------------- | ----------------------------- |
-| **Model**              | ER-X          | ER-Lite3      | ER-Lite4       | N10 Plus                      |
+| **Model**              | UBNT ER-X     | UBNT ER-Lite3 | UBNT ER-Lite4  | N10 Plus                      |
 | **CPU**                | MIPS          | MIPS          | MIPS           | Intel x86                     |
 | CPU Core               | 2             | 2             | 4              | 4                             |
 | CPU Clock Rate         | 880MHz        | 500MHz        | 1GHz           | 2GHz                          |
